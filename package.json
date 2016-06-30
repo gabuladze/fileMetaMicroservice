@@ -1,6 +1,6 @@
 {
   "name": "filemetamicroservice",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "File Metadata Microservice project for Free Code Camp",
   "main": "server.js",
   "scripts": {
